@@ -1,0 +1,5 @@
+{
+  "appId": "com.fakeapi.app",
+  "appName": "FakeApi",
+  "webDir": "dist"
+}
